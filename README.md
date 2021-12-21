@@ -11,3 +11,4 @@
 ## 使用说明
 打开 draw.io,菜单：文件->从..打开图库->url->输入对应的xml地址即可
 以下是使用url清单：
+kubernetes-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/kubernetes
