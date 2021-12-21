@@ -9,29 +9,29 @@
 无
 
 ## 使用说明
-打开 draw.io,菜单：文件->从..打开图库->url->输入对应的xml地址即可
+打开 draw.io,菜单：文件|从..打开图库|url|输入对应的xml地址即可
 以下是使用url清单(github);
-1. kubernetes-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/kubernetes
-2. office365-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/office365
-3. sap实施-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/sap实施
-4. win10-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/win10
-5. 业务架构-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/业务架构
-6. 常见软件-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/常见软件
-7. 数据库-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/数据库
-8. 模板-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/模板
-9. 用户角色-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/用户角色
-10. BI-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/bi
+| 图库名称       | 引用地址                                                                             |
+| 0-模板         | https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/0-模板           |
+| 1-业务架构     | https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/1-业务架构       |
+| 2-用户角色     | https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/2-用户角色       |
+| 3-数据库       | https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/3-数据库         |
+| 4-Kubernetes   | https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/4-Kubernetes     |
+| 10-Sap实施     | https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/10-Sap实施       |
+| 11-BI          | https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/11-BI            |
+| 21-Office365   | https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/21-Office365     |
+| 22-Win10       | https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/22-Win10         |
 
 
 
 以下是使用url清单(gitee):
-1. kubernetes-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/kubernetes
-2. office365-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/office365
-3. sap实施-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/sap实施
-4. win10-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/win10
-5. 业务架构-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/业务架构
-6. 常见软件-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/常见软件
-7. 数据库-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/数据库
-8. 模板-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/模板
-9. 用户角色-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/用户角色
-10. BI-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/BI
+| 图库名称       | 引用地址                                                                   |
+| 0-模板         | https://gitee.com/hunter_codedak/drawiogallery/raw/master/0-模板           |
+| 1-业务架构     | https://gitee.com/hunter_codedak/drawiogallery/raw/master/1-业务架构       |
+| 2-用户角色     | https://gitee.com/hunter_codedak/drawiogallery/raw/master/2-用户角色       |
+| 3-数据库       | https://gitee.com/hunter_codedak/drawiogallery/raw/master/3-数据库         |
+| 4-Kubernetes   | https://gitee.com/hunter_codedak/drawiogallery/raw/master/4-Kubernetes     |
+| 10-Sap实施     | https://gitee.com/hunter_codedak/drawiogallery/raw/master/10-Sap实施       |
+| 11-BI          | https://gitee.com/hunter_codedak/drawiogallery/raw/master/11-BI            |
+| 21-Office365   | https://gitee.com/hunter_codedak/drawiogallery/raw/master/21-Office365     |
+| 22-Win10       | https://gitee.com/hunter_codedak/drawiogallery/raw/master/22-Win10         |
