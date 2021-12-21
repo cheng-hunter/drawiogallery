@@ -16,10 +16,10 @@
 3. sap实施-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/sap实施
 4. win10-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/win10
 5. 业务架构-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/业务架构
-6. 常见软件-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/常见软件Logo
+6. 常见软件-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/常见软件
 7. 数据库-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/数据库
 8. 模板-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/模板
-9. 用户与角色-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/用户与角色
+9. 用户角色-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/用户角色
 
 
 
@@ -29,7 +29,7 @@
 3. sap实施-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/sap实施
 4. win10-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/win10
 5. 业务架构-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/业务架构
-6. 常见软件-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/常见软件Logo
+6. 常见软件-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/常见软件
 7. 数据库-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/数据库
 8. 模板-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/模板
-9. 用户与角色-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/用户与角色
+9. 用户角色-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/用户角色
