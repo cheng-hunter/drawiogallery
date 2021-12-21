@@ -20,6 +20,7 @@
 7. 数据库-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/数据库
 8. 模板-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/模板
 9. 用户角色-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/用户角色
+10. BI-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/bi
 
 
 
@@ -33,3 +34,4 @@
 7. 数据库-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/数据库
 8. 模板-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/模板
 9. 用户角色-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/用户角色
+10. BI-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/BI
