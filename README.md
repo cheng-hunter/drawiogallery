@@ -16,4 +16,4 @@
 
 
 以下是使用url清单（gitee）：
-+ kubernetes-> https://raw.githubusercontent.com/cheng-hunter/drawiogallery/master/kubernetes
++ kubernetes-> https://gitee.com/hunter_codedak/drawiogallery/raw/master/kubernetes
